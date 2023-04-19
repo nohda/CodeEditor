@@ -15,7 +15,9 @@
 | 소스코드 관리 | Git                 |
 | 지원 OS       | Window 10 이상      |
 
-개발기간 : 2019.05.01 ~ 2019.11.30
+##### 개발기간 : 2019.05.01 ~ 2019.11.30
+
+
 ​	그림1. 개발 문서
 
 <img src="https://tva1.sinaimg.cn/large/008vOhrAgy1hd50eg20pfj30o30t4dje.jpg" style="zoom:20%;">
