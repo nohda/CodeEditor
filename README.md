@@ -16,7 +16,7 @@
 
 ​	그림1. 개발 문서
 
-<img src="https://tva1.sinaimg.cn/large/008vOhrAgy1hd50eg20pfj30o30t4dje.jpg" style="zoom:50%;">
+<img src="https://tva1.sinaimg.cn/large/008vOhrAgy1hd50eg20pfj30o30t4dje.jpg" style="zoom:20%;">
 
 #### User Interface
 
@@ -26,7 +26,7 @@
 
 ​	그림2. 프로그램 시작화면
 
-<img src="https://tva1.sinaimg.cn/large/008vOhrAgy1hd4zzcu8r6j30pm0r2myf.jpg" style="zoom:50%;">
+<img src="https://tva1.sinaimg.cn/large/008vOhrAgy1hd4zzcu8r6j30pm0r2myf.jpg" style="zoom:20%;">
 
 
 
